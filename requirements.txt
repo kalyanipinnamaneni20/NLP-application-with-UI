@@ -1,0 +1,7 @@
+gradio
+textblob
+spacy
+langdetect
+PyPDF2
+pytesseract
+pillow
